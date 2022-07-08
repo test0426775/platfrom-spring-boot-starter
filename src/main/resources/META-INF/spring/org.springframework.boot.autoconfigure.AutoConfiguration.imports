@@ -1,0 +1,11 @@
+com.zxo.platform.core.LoggingFactoryBean
+com.zxo.platform.notice.LoggingNoticeListener
+com.zxo.platform.notice.support.LoggingLocalNotice
+com.zxo.platform.configuration.WebConfiguration
+com.zxo.platform.configuration.GlobalController
+com.zxo.platform.configuration.ExceptionControllerAdvice
+com.zxo.platform.filter.LoggingBodyFilter
+com.zxo.platform.configuration.SQLConfiguration
+com.zxo.platform.configuration.TokenConfiguration
+com.zxo.platform.configuration.JwtTokenConfiguration
+com.zxo.platform.configuration.RedisConfiguration
